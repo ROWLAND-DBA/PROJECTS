@@ -14,6 +14,6 @@ The objective of this project was to Conducted a comprehensive analysis of Netfl
 
 [Using Tableau](https://public.tableau.com/app/profile/rowland.fedebagha3164/viz/NETFLIXDATASET_16960257560340/Dashboard1?publish=yes)
 
-[PowerPoint presentation]()
+[PowerPoint presentation](https://github.com/ROWLAND-DBA/PROJECTS/blob/main/NETFLIX%20TABLEAU%20PRESENTATION.pptx)
 
 
