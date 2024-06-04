@@ -15,3 +15,5 @@ The objective of this project was to Conducted a comprehensive analysis of Netfl
 [PowerPoint presentation](https://github.com/ROWLAND-DBA/PROJECTS/blob/main/NETFLIX%20TABLEAU%20PRESENTATION.pptx)
 
 ## 2. [Banking Data Analysis](https://github.com/ROWLAND-DBA/PROJECTS/blob/main/ROWLAND_EDA_BANKING_DATASET.ipynb)
+
+This project was carried out to determine the share of clients being attracted by the bank and the mean numerical value of the atracted clients,avrage age and marital status among attracted clients and the average age and call duration against their employment type for attracted clients.
