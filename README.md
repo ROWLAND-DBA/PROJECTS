@@ -14,4 +14,4 @@ The objective of this project was to Conducted a comprehensive analysis of Netfl
 
 [PowerPoint presentation](https://github.com/ROWLAND-DBA/PROJECTS/blob/main/NETFLIX%20TABLEAU%20PRESENTATION.pptx)
 
-## 2. [Banking Data Analysis]()
+## 2. [Banking Data Analysis](https://github.com/ROWLAND-DBA/PROJECTS/blob/main/ROWLAND_EDA_BANKING_DATASET.ipynb)
